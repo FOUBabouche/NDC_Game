@@ -1,6 +1,8 @@
 # NDC_Game | Spacevania
 
-**Jeu créer en 7h (pas 6h) à l'occasion de l'événement "La nuit du code".**
+**Jeu créer en 7h (pas 6h) à l'occasion de l'événement "La nuit du code".<br>**
+Fait en Python.<br>
+Utilise la librairie <a href="https://github.com/kitao/pyxel">Pyxel</a>.<br>
 
 # Lore
 Dans un monde où des aliens nous envahissent,<br>
