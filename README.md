@@ -6,11 +6,11 @@ Utilise la librairie <a href="https://github.com/kitao/pyxel">Pyxel</a>.<br>
 Le jeu: <a href="https://kitao.github.io/pyxel/wasm/launcher/?run=foubabouche.NDC_Game.Spacevania.app">Spacevania</a><br>
 
 #Touche
-A : Tire 1
-E : Tire 2
-D : Droite
-Q : Gauche
-Espace : Sauter
+A : Tire 1<br>
+E : Tire 2<br>
+D : Droite<br>
+Q : Gauche<br>
+Espace : Sauter<br>
 
 # Lore
 Dans un monde où des aliens nous envahissent,<br>
